@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Omer Quadri :wave:
+    I'm muzig (mu zi gang)
     <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    Game server development : Mobile phone games : developer!
     <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
+    Talk is cheap, show your code. (just only in programing)
     <br><br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
@@ -59,11 +59,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/nxls_NextLeaves"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
