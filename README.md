@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm muzig (mu zi gang)
     <br><br>
-    Game server development : Mobile phone games : developer!
+    Game Development
     <br><br>
     Talk is cheap, show your code. (just only in programing)
     <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
+    The source of happiness is not limited to programming
   </samp>
 </p>
 
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/nxls_NextLeaves"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://twitter.com/nxls_NextLeaves"><img src="https://github.com/muzig/profile/blob/master/assets/svg/social/twitter.svg"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
