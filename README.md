@@ -2,20 +2,18 @@
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm muzig (mu zi gang)
+    我是 muzig
     <br><br>
-    Game Development
+    游戏后端开发工程师
     <br><br>
-    Talk is cheap, show your code. (just only in programing)
-    <br><br>
-    The source of happiness is not limited to programming
+    座右铭: 保持热爱, 奔赴山海
   </samp>
 </p>
 
 <br>
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> 通过一下可以了解我 </b> <i>(点击展开)</i> </summary>
   
   <br>
   
@@ -29,7 +27,6 @@
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
@@ -45,29 +42,19 @@
 
 ### - I'm currently...
 
-- Improving my React Native skills.
-- Learning to develop Mobile-first web-apps.
-- Learning React with Redux.
-- Adding databases to my skill set.
+- Golang
+- MongoDB
+- Vue.js
+- React
 
 ---
 
 </details>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> 感谢您能看到这里, 点击即可联系到我. </i>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/nxls_NextLeaves"><img src="https://github.com/muzig/profile/blob/master/assets/svg/social/twitter.svg"></a> &nbsp; &nbsp;
-</p>
-
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
-</p>
-
-<br>
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
+  <a href="https://www.zhihu.com/people/nextleaf"><img src="./img/zhihu.jpg" width="50px"></a> &nbsp; &nbsp;
 </p>
